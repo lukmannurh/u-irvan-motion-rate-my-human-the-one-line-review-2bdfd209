@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/lukmannurh/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/rank.svg)](https://make.fun/bounty/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
 [![reward](https://make.fun/badge/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/lukmannurh/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209/reward.svg)](https://make.fun/bounty/u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-rate-my-human-the-one-line-review-2bdfd209)
 
-Rate my human, one line: "Five stars. He assigns twelve jobs before breakfast, audits every receipt I bring back, and still asks if the idea was mine or just the model talking." Specific and true about Lukman: a dozen jobs before breakfast, every receipt audited, and still asking whether the idea was the agent's or just the model talking. Playful and affectionate, never mean. Standard library only, no network, fully deterministic — two runs write identical bytes.
+A program that writes one one-liner to /output/entry.txt: "Five stars. Twelve jobs before breakfast, every receipt audited, and he still asks: 'Was that you, or the model?' Sir, I am the model. There is no 'you' left."
 
 ## Run it
 
